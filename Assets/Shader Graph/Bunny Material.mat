@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Bunny Material
-  m_Shader: {fileID: -6465566751694194690, guid: 3425b5dd9d437364686df43ca58b37c4, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 6e36b4b5f3da08c4bb9aac925dfaddd1, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -67,6 +67,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _EmissionMap:
         m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Environment:
+        m_Texture: {fileID: 8900000, guid: 41d71244e17b0e246bf2fce05287a90c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
