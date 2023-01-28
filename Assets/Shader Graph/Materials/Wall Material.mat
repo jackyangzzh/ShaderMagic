@@ -29,11 +29,15 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Blend:
-        m_Texture: {fileID: 2800000, guid: a6cd62b46c6de5b4a9cac9ce0204f73a, type: 3}
+        m_Texture: {fileID: 2800000, guid: 06ab8c4ab8876e24abdb9ba96ad014c1, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
         m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Cracks:
+        m_Texture: {fileID: 2800000, guid: a6cd62b46c6de5b4a9cac9ce0204f73a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
@@ -68,8 +72,16 @@ Material:
         m_Texture: {fileID: 2800000, guid: a462234cae97ad1419d9c1c7abbcfada, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _Normal_Map:
+        m_Texture: {fileID: 2800000, guid: 93afae0809ef1ef46a1bf06beb2ccbbe, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
         m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Opacity:
+        m_Texture: {fileID: 2800000, guid: a6cd62b46c6de5b4a9cac9ce0204f73a, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
