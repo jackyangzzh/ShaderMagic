@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Bunny Material
+  m_Name: Bunny
   m_Shader: {fileID: -6465566751694194690, guid: 8312f3ae80563d341858182cbe1e1db1, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
