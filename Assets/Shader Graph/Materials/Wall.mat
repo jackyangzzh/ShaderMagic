@@ -50,8 +50,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _Height_Scale: 4.9
+    - _Noise_Scale: 10
     - _QueueControl: 0
     - _QueueOffset: 0
+    - _Scale: 30
     m_Colors:
     - _Color1: {r: 1, g: 0.81792456, b: 0.08962262, a: 0}
     - _Color2: {r: 1, g: 0, b: 0, a: 0}
