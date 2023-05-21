@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Bunny
-  m_Shader: {fileID: -6465566751694194690, guid: 8312f3ae80563d341858182cbe1e1db1, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 130aca4584c403d44913e64b92c4b2ef, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -35,6 +35,10 @@ Material:
     m_TexEnvs:
     - _Base_Texture:
         m_Texture: {fileID: 2800000, guid: 6e5abf4840ebbc6408842a15f4de8341, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal_Map:
+        m_Texture: {fileID: 2800000, guid: 3adb519521a2df848ac80470413b1cd6, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
@@ -54,7 +58,10 @@ Material:
     - _Lerp_Value: 0.579
     - _QueueControl: 0
     - _QueueOffset: 0
+    - _Strength: 0.63
     m_Colors:
+    - _Base_Color: {r: 0.8207547, g: 0.58459413, b: 0.58459413, a: 0}
+    - _Color: {r: 0.5509059, g: 0.16237977, b: 0.8396226, a: 0}
     - _Color_1: {r: 1, g: 0, b: 0, a: 0}
     - _Color_2: {r: 0.32423258, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
