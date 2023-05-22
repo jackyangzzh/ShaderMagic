@@ -109,9 +109,6 @@
             "m_Id": "cbe57294395f43d69e240923091977ea"
         },
         {
-            "m_Id": "af7dbda3dd744cb4abe31c945f489ede"
-        },
-        {
             "m_Id": "66eebdb4cedf4b24b724a23e6d07a98b"
         },
         {
@@ -1915,41 +1912,6 @@
 
 {
     "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.PropertyNode",
-    "m_ObjectId": "af7dbda3dd744cb4abe31c945f489ede",
-    "m_Group": {
-        "m_Id": ""
-    },
-    "m_Name": "Property",
-    "m_DrawState": {
-        "m_Expanded": true,
-        "m_Position": {
-            "serializedVersion": "2",
-            "x": -969.9998779296875,
-            "y": -223.0,
-            "width": 146.99993896484376,
-            "height": 33.99998474121094
-        }
-    },
-    "m_Slots": [
-        {
-            "m_Id": "eab225864f63415c980ea6dfc7a3937b"
-        }
-    ],
-    "synonyms": [],
-    "m_Precision": 0,
-    "m_PreviewExpanded": true,
-    "m_PreviewMode": 0,
-    "m_CustomColors": {
-        "m_SerializableColors": []
-    },
-    "m_Property": {
-        "m_Id": "c862791c649c49afa3a94b3523ce99f8"
-    }
-}
-
-{
-    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.Vector2MaterialSlot",
     "m_ObjectId": "b1da442967584fb89449dbe99ecb5659",
     "m_Id": 0,
@@ -2624,19 +2586,6 @@
     "m_CustomColors": {
         "m_SerializableColors": []
     }
-}
-
-{
-    "m_SGVersion": 0,
-    "m_Type": "UnityEditor.ShaderGraph.Texture2DMaterialSlot",
-    "m_ObjectId": "eab225864f63415c980ea6dfc7a3937b",
-    "m_Id": 0,
-    "m_DisplayName": "Albedo Map",
-    "m_SlotType": 1,
-    "m_Hidden": false,
-    "m_ShaderOutputName": "Out",
-    "m_StageCapability": 3,
-    "m_BareResource": false
 }
 
 {
